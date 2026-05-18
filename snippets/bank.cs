@@ -1,4 +1,3 @@
-
 // Base class for all banking domain errors
 class BankException : Exception
 {
